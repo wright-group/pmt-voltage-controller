@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name MAX6951)(type Legacy)(uri ${KIPRJMOD}/symbols/MAX6951.lib)(options "")(descr ""))
+  (lib (name ACSC02-41SURKWA-F01)(type Legacy)(uri ${KIPRJMOD}/symbols/ACSC02-41SURKWA-F01.lib)(options "")(descr ""))
+  (lib (name MCU_RaspberryPi_and_Boards)(type Legacy)(uri ${KIPRJMOD}/symbols/MCU_RaspberryPi_and_Boards.lib)(options "")(descr ""))
+  (lib (name AD5761)(type Legacy)(uri ${KIPRJMOD}/symbols/AD5761.lib)(options "")(descr ""))
+  (lib (name VXO7805-500-M)(type Legacy)(uri ${KIPRJMOD}/symbols/VXO7805-500-M.lib)(options "")(descr ""))
+)
