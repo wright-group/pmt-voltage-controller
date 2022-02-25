@@ -1,5 +1,7 @@
 # pmt-voltage-controller
 
+ABANDONED
+
 A simple interface designed to endow PMT drivers with computer control.
 Effectively this a USB interface to a single analog and single TTL output.
 
